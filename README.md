@@ -1,2 +1,5 @@
-# personal-time-reporter
-Personal Time-Reporter
+# Personal Time-Reporter
+
+A time-reporter for personal use.
+
+Written in JavaScript - Node.js & React.js
