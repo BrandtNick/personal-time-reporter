@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/config/db.js" line="3" mnemonic="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35a608c6-9732-4c6d-ac44-792b0e088774" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/time-reports/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/time-reports/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="time-reporter" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/db.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/express.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/time-reports/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/time-reports/middlewares.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/api/time-reports/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/models/time-reports.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Location</find>
+      <find>/auth/google/callback</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/api/time-reports.js" />
+        <option value="$PROJECT_DIR$/src/config/express.js" />
+        <option value="$PROJECT_DIR$/src/api/index.js" />
+        <option value="$PROJECT_DIR$/src/models/index.js" />
+        <option value="$PROJECT_DIR$/../../time-reporter/src/api/time-reports/index.js" />
+        <option value="$PROJECT_DIR$/../../time-reporter/src/models/time-reports.js" />
+        <option value="$PROJECT_DIR$/../../ramda/ramda.js" />
+        <option value="$PROJECT_DIR$/src/api/time-reports/routes.js" />
+        <option value="$PROJECT_DIR$/src/api/time-reports/middlewares.js" />
+        <option value="$PROJECT_DIR$/src/components/passport.js" />
+        <option value="$PROJECT_DIR$/src/components/express.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/config/index.js" />
+        <option value="$PROJECT_DIR$/src/server.js" />
+        <option value="$PROJECT_DIR$/src/config/db.js" />
+        <option value="$PROJECT_DIR$/src/models/time-reports.js" />
+        <option value="$PROJECT_DIR$/src/api/time-reports/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="260" />
+    <option name="y" value="53" />
+    <option name="width" value="1380" />
+    <option name="height" value="1018" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="node-time-reporter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-time-reporter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node-time-reporter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-time-reporter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node-time-reporter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-time-reporter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node-time-reporter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-time-reporter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../yggio/storm/services/rest-api" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ramda.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../ramda/ramda.js" working-dir="$PROJECT_DIR$/../../time-reporter">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.ramda.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35a608c6-9732-4c6d-ac44-792b0e088774" name="Default Changelist" comment="" />
+      <created>1549744145355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549744145355</updated>
+      <workItem from="1549744146488" duration="7634000" />
+      <workItem from="1549791933083" duration="8165000" />
+      <workItem from="1549887434464" duration="599000" />
+      <workItem from="1549991006525" duration="599000" />
+      <workItem from="1550073268852" duration="599000" />
+      <workItem from="1550223061688" duration="599000" />
+      <workItem from="1550254780435" duration="5871000" />
+      <workItem from="1550308681383" duration="1549000" />
+      <workItem from="1550346954326" duration="3332000" />
+      <workItem from="1550390291375" duration="5351000" />
+      <workItem from="1550495309787" duration="599000" />
+      <workItem from="1550599993533" duration="599000" />
+      <workItem from="1550643013703" duration="599000" />
+      <workItem from="1550764257924" duration="599000" />
+      <workItem from="1550850666199" duration="599000" />
+      <workItem from="1550913359937" duration="599000" />
+      <workItem from="1551031930534" duration="2052000" />
+      <workItem from="1551115854695" duration="1204000" />
+      <workItem from="1551201138656" duration="599000" />
+      <workItem from="1551266361676" duration="597000" />
+      <workItem from="1551281229301" duration="5704000" />
+      <workItem from="1551368076333" duration="599000" />
+      <workItem from="1551454332025" duration="599000" />
+      <workItem from="1551627053697" duration="2041000" />
+      <workItem from="1551725296461" duration="599000" />
+      <workItem from="1551805131101" duration="599000" />
+      <workItem from="1551869878054" duration="598000" />
+      <workItem from="1551981848744" duration="599000" />
+      <workItem from="1552068919681" duration="598000" />
+      <workItem from="1552123247803" duration="598000" />
+      <workItem from="1552209109342" duration="599000" />
+      <workItem from="1552250412744" duration="599000" />
+      <workItem from="1552324601837" duration="631000" />
+      <workItem from="1552416580446" duration="599000" />
+      <workItem from="1552503125983" duration="599000" />
+      <workItem from="1552580341553" duration="1199000" />
+      <workItem from="1552664213519" duration="599000" />
+      <workItem from="1552769805094" duration="599000" />
+      <workItem from="1552832437279" duration="596000" />
+      <workItem from="1552938084117" duration="598000" />
+      <workItem from="1553099632109" duration="1418000" />
+      <workItem from="1553112785690" duration="5249000" />
+      <workItem from="1553197578980" duration="599000" />
+      <workItem from="1553281341214" duration="1317000" />
+      <workItem from="1553445927558" duration="599000" />
+      <workItem from="1553515693295" duration="598000" />
+      <workItem from="1553699295173" duration="594000" />
+      <workItem from="1553955790581" duration="562000" />
+      <workItem from="1554014897752" duration="6222000" />
+      <workItem from="1554200506417" duration="595000" />
+      <workItem from="1554316966439" duration="642000" />
+      <workItem from="1554355333549" duration="889000" />
+      <workItem from="1554391890349" duration="3432000" />
+      <workItem from="1554663825002" duration="599000" />
+      <workItem from="1554737909826" duration="599000" />
+      <workItem from="1554828375149" duration="611000" />
+      <workItem from="1554920003782" duration="625000" />
+      <workItem from="1555009523132" duration="1219000" />
+      <workItem from="1555089020616" duration="599000" />
+      <workItem from="1555175975317" duration="624000" />
+      <workItem from="1555272398489" duration="1221000" />
+      <workItem from="1555317508163" duration="599000" />
+      <workItem from="1555389731601" duration="636000" />
+      <workItem from="1555419501520" duration="599000" />
+      <workItem from="1555428407325" duration="599000" />
+      <workItem from="1555438879602" duration="647000" />
+      <workItem from="1555482870317" duration="633000" />
+      <workItem from="1555511266331" duration="1199000" />
+      <workItem from="1555567738655" duration="595000" />
+      <workItem from="1555597310363" duration="1068000" />
+      <workItem from="1555652984715" duration="623000" />
+      <workItem from="1555750228266" duration="599000" />
+      <workItem from="1555827594408" duration="2472000" />
+      <workItem from="1555918683754" duration="661000" />
+      <workItem from="1555999463991" duration="599000" />
+      <workItem from="1556091844373" duration="685000" />
+      <workItem from="1556170889157" duration="599000" />
+      <workItem from="1556199251280" duration="1173000" />
+      <workItem from="1556258525397" duration="596000" />
+      <workItem from="1556282669800" duration="1705000" />
+      <workItem from="1556348843456" duration="599000" />
+      <workItem from="1556395600064" duration="599000" />
+      <workItem from="1556822150759" duration="606000" />
+      <workItem from="1556862472877" duration="599000" />
+      <workItem from="1556888479643" duration="599000" />
+      <workItem from="1557078049247" duration="599000" />
+      <workItem from="1557141333353" duration="688000" />
+      <workItem from="1557295916589" duration="604000" />
+      <workItem from="1557512120898" duration="599000" />
+      <workItem from="1557657641000" duration="2397000" />
+      <workItem from="1557759108006" duration="599000" />
+      <workItem from="1557859979784" duration="586000" />
+      <workItem from="1557927032542" duration="599000" />
+      <workItem from="1557931309077" duration="625000" />
+      <workItem from="1558037569343" duration="744000" />
+      <workItem from="1558080041447" duration="4139000" />
+      <workItem from="1558122304219" duration="599000" />
+      <workItem from="1558179308343" duration="603000" />
+      <workItem from="1558288398917" duration="338000" />
+      <workItem from="1558345985368" duration="660000" />
+      <workItem from="1558636181369" duration="599000" />
+      <workItem from="1558813012127" duration="599000" />
+      <workItem from="1559118289383" duration="487000" />
+      <workItem from="1559153904133" duration="603000" />
+      <workItem from="1559373329499" duration="234000" />
+      <workItem from="1559463249672" duration="576000" />
+      <workItem from="1559473733848" duration="599000" />
+      <workItem from="1559763535875" duration="599000" />
+      <workItem from="1559838687461" duration="599000" />
+      <workItem from="1559918474675" duration="1198000" />
+      <workItem from="1560083839910" duration="599000" />
+      <workItem from="1560184292558" duration="599000" />
+      <workItem from="1560253285142" duration="599000" />
+      <workItem from="1560279904272" duration="599000" />
+      <workItem from="1560343550419" duration="1843000" />
+      <workItem from="1560455049957" duration="599000" />
+      <workItem from="1560510323931" duration="595000" />
+      <workItem from="1560625219181" duration="599000" />
+      <workItem from="1560684108307" duration="2034000" />
+      <workItem from="1560748559432" duration="599000" />
+      <workItem from="1560841457891" duration="599000" />
+      <workItem from="1560870312207" duration="599000" />
+      <workItem from="1560938266283" duration="599000" />
+      <workItem from="1560946154736" duration="599000" />
+      <workItem from="1560969135203" duration="616000" />
+      <workItem from="1561195922416" duration="604000" />
+      <workItem from="1561307948641" duration="599000" />
+      <workItem from="1561401090444" duration="599000" />
+      <workItem from="1561569887659" duration="599000" />
+      <workItem from="1561618205853" duration="599000" />
+      <workItem from="1561629880874" duration="339000" />
+      <workItem from="1561657316352" duration="612000" />
+      <workItem from="1561732383004" duration="640000" />
+      <workItem from="1561796656616" duration="599000" />
+      <workItem from="1561892534808" duration="599000" />
+      <workItem from="1562008547516" duration="599000" />
+      <workItem from="1562087411036" duration="599000" />
+      <workItem from="1562355078657" duration="599000" />
+      <workItem from="1562697944454" duration="599000" />
+      <workItem from="1563135191245" duration="599000" />
+      <workItem from="1563214769781" duration="599000" />
+      <workItem from="1563296423906" duration="599000" />
+      <workItem from="1563340980352" duration="1316000" />
+      <workItem from="1563346235564" duration="272000" />
+      <workItem from="1563353033211" duration="599000" />
+      <workItem from="1563393059585" duration="599000" />
+      <workItem from="1563458884231" duration="334000" />
+      <workItem from="1563478413894" duration="599000" />
+      <workItem from="1563560015206" duration="405000" />
+      <workItem from="1563695955409" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="156218000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49833518" visible="true" weight="0.156563" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.5016648" side_tool="true" weight="0.156563" />
+      <window_info id="Favorites" order="3" sideWeight="0.5005549" side_tool="true" weight="0.156563" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32963374" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../time-reporter/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/api/time-reports.js" />
+    <entry file="file://$PROJECT_DIR$/../../time-reporter/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../time-reporter/src/server.js" />
+    <entry file="file://$PROJECT_DIR$/../../time-reporter/src/config/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../time-reporter/src/models/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../time-reporter/src/api/time-reports/routes.js" />
+    <entry file="file://$PROJECT_DIR$/../../time-reporter/src/api/time-reports/middlewares.js" />
+    <entry file="file://$PROJECT_DIR$/../../time-reporter/src/components/express.js" />
+    <entry file="file://$PROJECT_DIR$/../../time-reporter/src/api/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../time-reporter/src/api/time-reports/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../time-reporter/src/models/time-reports.js" />
+    <entry file="file://$PROJECT_DIR$/../../ramda/ramda.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/passport.js" />
+    <entry file="file://$PROJECT_DIR$/src/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/express.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/time-reports/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/time-reports/middlewares.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/time-reports.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/time-reports/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
