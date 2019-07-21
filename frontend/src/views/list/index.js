@@ -79,8 +79,7 @@ const List = ({state, dispatch}) => {
   return (
     <StyledCard>
       <StyledSubTitle>
-        <ListIcon size={35} />
-        Reports
+        <ListIcon size={50} />
       </StyledSubTitle>
       <StyledList>
         <FilterContainer />

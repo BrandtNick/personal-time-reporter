@@ -10,7 +10,8 @@ import {monthsAvailableSelector, yearsAvailableSelector} from '../../../selector
 const SelectBoxes = ({state, dispatch}) => {
   const selectYear = () => ({target: {value}}) => dispatch(viewActions.selectYear(value));
   const selectMonth = () => ({target: {value}}) => dispatch(viewActions.selectMonth(value));
-  const setNameFilter = () => ({target: {value}}) => dispatch(viewActions.setNameFilter(value));
+  // TODO: Implement filter by name
+  // const setNameFilter = () => ({target: {value}}) => dispatch(viewActions.setNameFilter(value));
   const years = yearsAvailableSelector(state);
   const months = monthsAvailableSelector(state);
 

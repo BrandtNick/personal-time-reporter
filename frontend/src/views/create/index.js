@@ -74,8 +74,7 @@ const Create = ({state, dispatch}) => {
   return (
     <StyledCard>
       <StyledSubTitle>
-        <PlusSquare size={35}/>
-        Create
+        <PlusSquare size={50}/>
       </StyledSubTitle>
       {map(inputList, inputs)}
       <StyledButtonWrapper>

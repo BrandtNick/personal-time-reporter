@@ -18,8 +18,7 @@ import {
 const Dashboard = ({state}) => (
   <StyledCard>
     <StyledSubTitle>
-      <LineChart size={35} />
-      Dashboard
+      <LineChart size={50} />
     </StyledSubTitle>
     <StyledDashboard>
       <StyledStat>
