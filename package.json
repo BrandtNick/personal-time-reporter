@@ -1,0 +1,25 @@
+{
+  "name": "personal-time-reporter",
+  "version": "1.0.0",
+  "description": "A time-reporter for personal use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "cd frontend && npm start",
+    "server": "cd backend && npm start",
+    "start": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandtNick/personal-time-reporter.git"
+  },
+  "author": "Nick Brandt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandtNick/personal-time-reporter/issues"
+  },
+  "homepage": "https://github.com/BrandtNick/personal-time-reporter#readme",
+  "devDependencies": {
+    "concurrently": "^5.0.0"
+  }
+}
