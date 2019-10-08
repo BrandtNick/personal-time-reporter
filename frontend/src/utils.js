@@ -22,12 +22,11 @@ const combineReducers = reducers => {
 };
 
 const createReducer = (initialState, handlers) => (
-  (state = initialState, action) => {
-    if (has(action.type, handlers)) {
-      return handlers[action.type](state, action)
-    }
-    return state;
-  }
+  (state = initialState, action) => (
+    has(action.type, handlers) ?
+      handlers[action.type](state, action) :
+      state
+  )
 );
 
 const logState = reducer => (state, action) => {
