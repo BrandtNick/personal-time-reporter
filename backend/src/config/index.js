@@ -1,6 +1,6 @@
 'use strict';
 const config = {
-  PORT: 8080,
+  PORT: process.env.PORT || 8080,
   mongo: {
     URI: 'mongodb://localhost/time-reports',
     options: { useNewUrlParser: true },
