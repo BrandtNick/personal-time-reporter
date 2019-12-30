@@ -1,5 +1,6 @@
 // Modules
 import React from 'react';
+import withAuth from './hocs/with-auth.hoc';
 
 // View
 import TimeReports from './views';
@@ -13,4 +14,4 @@ const App = () => (
   </StateContextProvider>
 );
 
-export default App;
+export default withAuth(App);
