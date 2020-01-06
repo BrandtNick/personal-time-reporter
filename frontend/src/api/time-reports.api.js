@@ -2,9 +2,25 @@
 
 // Modules
 import axios from 'axios';
-import {DB} from '../config';
+import {CONFIG} from '../config';
+import cookie from 'js-cookie';
 
-const URI = `${DB.host}/api/time-reports`; // URI time-reports only
+const token = cookie.get('token');
+const headers = {token};
+
+const request = ({method = 'get', URI, data, params}) => (
+  axios({
+    timeout: CONFIG.baseRequestTimeout,
+    method,
+    responseType: 'json',
+    url: `${CONFIG.baseRequestUrl}/api/${URI}`,
+    data,
+    params,
+    headers,
+  })
+    .then(res => res.data)
+    .catch(errorHandler)
+);
 
 const errorHandler = error => {
   console.error(`Data error: ${error.message}`);
@@ -12,27 +28,19 @@ const errorHandler = error => {
 };
 
 const fetch = () => (
-  axios.get(`${URI}/fetch`)
-    .then(response => response.data)
-    .catch(error => errorHandler(error))
+  request({URI: 'time-reports'})
 );
 
 const post = data => (
-  axios.post(`${URI}/create`, data)
-    .then(response => response.data)
-    .catch(error => errorHandler(error))
+  request({URI: 'time-reports', method: 'post', data})
 );
 
 const put = (id, data) => (
-  axios.put(`${URI}/update/${id}`, data)
-    .then(response => response.data)
-    .catch(error => errorHandler(error))
+  request({method: 'put', URI: `time-reports/${id}`, data})
 );
 
 const remove = id => (
-  axios.delete(`${URI}/${id}`)
-    .then(response => response.data)
-    .catch(error => errorHandler(error))
+  request({method: 'delete', URI: `time-reports/${id}`})
 );
 
 export {
