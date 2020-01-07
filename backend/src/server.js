@@ -7,6 +7,7 @@ const http = require('http');
 const {PORT} = require('./config');
 const expressConfig = require('./components/express');
 const initMongoose = require('./config/db');
+const {initSocket} = require('./components/socket');
 
 const initExpress = () => {
   console.log(blue.bold('Loading express..'));
@@ -20,6 +21,7 @@ const initExpress = () => {
 
 const start = async () => {
   await initExpress();
+  await initSocket();
   await initMongoose();
 };
 
