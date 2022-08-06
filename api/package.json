@@ -16,7 +16,7 @@
     "compose-middleware": "^5.0.1",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "mongoose": "^5.4.11",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "ramda": "^0.26.1",
     "ws": "^7.2.1"
